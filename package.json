@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/mwilkin-401-advanced-javascript/Lab37-socket-server#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "socket.io": "^2.2.0"
   }
 }
